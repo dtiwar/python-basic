@@ -1,6 +1,6 @@
+from pathlib import Path
 from importlib.resources import read_text
 import setuptools
-from pathlib import Path
 
 setuptools.setup(
 

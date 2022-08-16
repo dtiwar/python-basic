@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 secrets/
 python-utils/
+python-utils
 .Python
 build/
 develop-eggs/
